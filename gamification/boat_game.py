@@ -4,6 +4,7 @@ from sprites import make_boat, make_iceberg, make_water
 WIDTH, HEIGHT = 2000, 1500
 FPS = 60
 
+
 # Everything below scales with WIDTH and HEIGHT
 LANES = 5
 LANE_WIDTH = WIDTH // LANES
